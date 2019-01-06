@@ -1,0 +1,24 @@
+bank:
+    frequency: today
+    amount: 20000
+income:
+    frequency: 20th of every month
+    amount: 2000
+rent:
+    frequency: every month
+    amount: -750
+food:
+    frequency: every day
+    amount: -30
+vacation:
+    frequency: 2019-04-18
+    amount: -2500
+memberships:
+    frequency: every month
+    amount: 80
+fun:
+    frequency: every friday and saturday
+    amount: 20
+purchases:
+    frequency: every third week from febuary 1st
+    amount: 800
